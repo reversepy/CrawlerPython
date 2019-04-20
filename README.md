@@ -1,5 +1,7 @@
 # CrawlerPython
 
+[![Build Status](https://travis-ci.org/reversepy/CrawlerPython.svg?branch=master)](https://travis-ci.org/reversepy/CrawlerPython)
+
 
 
 Neste tutorial, você construiu um spider totalmente funcional que extrai dados de páginas web em menos de trinta linhas de código. É um ótimo começo, mas há muitas coisas divertidas que você pode fazer com esse spider. Aqui estão algumas maneiras de expandir o código que você escreveu. Eles vão te dar alguns dados para a prática do scrap.
