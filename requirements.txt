@@ -22,7 +22,7 @@ pyflakes==2.1.1
 PyHamcrest==1.9.0
 pyOpenSSL==19.0.0
 queuelib==1.5.0
-Scrapy==1.6.0
+Scrapy==2.4.1
 service-identity==18.1.0
 six==1.12.0
 Twisted==19.2.1
